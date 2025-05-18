@@ -15,3 +15,7 @@ storing them in another list. This list is passed through the Tesseract to get t
 ● You can train a custom YOLO_V3 model using your custom dataset. 
 
 ● Make a folder named model and put the weights file inside it.
+
+# Text Extraction and Deployment on Streamlit - Uses the Path of Google Drive
+
+![image](https://github.com/user-attachments/assets/38c3ef57-182b-4b59-bad8-eba2d3af4397)
